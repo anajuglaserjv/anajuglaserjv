@@ -1,11 +1,5 @@
 <h1 align="center">Oi! Eu sou a Ana 💻💜</h1>
-<h3 align="center">No mundo dos dados, encontrei minha paixão. 📊💡</h3>
 
-- 🔭 Atualmente estou desenvolvendo um DataLake que visa a previsibilidade meteorológica mantido e atualizado por fontes de dados públicos. **Velaris**
-
-- 🌱 No momento estou aprendendo **Data Science**
-
-- 💬 Me pergunte sobre **SQL, Python, Banco de dados, AWS, Análise de dados, Big Data e PowerBI.**
 
 - 📫você me acha através do e-mail **anajuglaser.r@gmail.com**
 
