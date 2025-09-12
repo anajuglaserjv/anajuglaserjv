@@ -1,0 +1,9 @@
+{
+	"name": "adf-cp-kalyna",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84de0818-095e-4f92-9d13-3fa5c1f8e404",
+		"tenantId": "11dbbfe2-89b8-4549-be10-cec364e59551"
+	}
+}
