@@ -1,0 +1,12 @@
+{
+	"name": "ORACLE_FIAP",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Oracle_FIAP",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "OracleTable",
+		"schema": []
+	}
+}
